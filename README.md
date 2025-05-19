@@ -4,13 +4,13 @@
 
 - <b>Microsoft Power BI </b>
   - [USA Car Sales Dashboard](https://github.com/Shahzaib-Nazir/CarSalesDashboard)
-  - [Personal Finance Dashboard](https://github.com/shahzaib-nazir/personal-finance-dashboard)
-  - [Walmart Sales Analysis Dashboard](https://github.com/shahzaib-nazir/walmart-sales-dashboard)
+  - [Personal Finance Dashboard](https://github.com/Shahzaib-Nazir/PersonalFinanceDashboard)
+  - [Walmart Sales Analysis Dashboard](https://github.com/Shahzaib-Nazir/WalmartSalesDashboard)
 
 <h2>📄Certifications:</h2>
 
 - <b>Coursera </b>
-  - [Python for Data Science, AI & Development by IBM](https://github.com/shahzaib-nazir/certifications)
+  - [Python for Data Science, AI & Development by IBM](https://github.com/Shahzaib-Nazir/Certifications)
 
 <h2> 🤳 Connect with me:</h2>
 - <b>LinkedIn: </b>
