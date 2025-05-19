@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Shahzaib!
 
-<!--
-**Shahzaib-Nazir/Shahzaib-Nazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Power BI </b>
+  - [USA Car Sales Dashboard](https://github.com/shahzaib-nazir/car-sales-dashboard)
+  - [Personal Finance Dashboard](https://github.com/shahzaib-nazir/personal-finance-dashboard)
+  - [Walmart Sales Analysis Dashboard](https://github.com/shahzaib-nazir/walmart-sales-dashboard)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📄Certifications:</h2>
+
+- <b>Coursera </b>
+  - [Python for Data Science, AI & Development by IBM](https://github.com/shahzaib-nazir/certifications)
+
+<h2> 🤳 Connect with me:</h2>
+- <b>LinkedIn: </b>
+
+[<img align="left" alt="ShahzaibNazir | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/shahzaibnazir
