@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Microsoft Power BI </b>
-  - [USA Car Sales Dashboard](https://github.com/shahzaib-nazir/car-sales-dashboard)
+  - [USA Car Sales Dashboard](https://github.com/Shahzaib-Nazir/CarSalesDashboard)
   - [Personal Finance Dashboard](https://github.com/shahzaib-nazir/personal-finance-dashboard)
   - [Walmart Sales Analysis Dashboard](https://github.com/shahzaib-nazir/walmart-sales-dashboard)
 
